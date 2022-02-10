@@ -1,4 +1,4 @@
-# Codeforces-resolutions
+# Codeforces-solutions
 _Solution of some exercises of the popular programming page Codeforces._ 
 
 ## Starting 🚀
